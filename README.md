@@ -48,6 +48,7 @@
 <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+ <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="sqlite" width="40" height="40"/> </a>
