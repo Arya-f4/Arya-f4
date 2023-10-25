@@ -24,7 +24,7 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
 <a href="https://tauri.app/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tauri-logo-39352BD5A1-seeklogo.com.png" alt="Flutter" width="40" height="40"/> </a>
 
-**Server:** Node, Express, Rust
+**Server:** Node, Express, Rocket
 
 <a href="https://nodejs.org/e" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node" width="40" height="40"/> </a>
 <a href="https://nodejs.org/e" target="_blank" rel="noreferrer"> <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="Node" width="40" height="40"/> </a>
