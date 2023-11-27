@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <marquee><h1> I'm Worldsavior | Arya </h1></marquee>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 - 🔭 I’m currently working on nothing...
 - 🌱 I’m currently learning with malware development
+- 💻Hacking and Development enthusiasts
 - 📫 How to reach me: just mail this "edensleuth@gmail.com"
 - 😄 Pronouns: The self | Arya | Him
 - ⚡ Fun fact: I love philosophy and code
@@ -15,6 +16,8 @@
 <a href="https://javascript.info/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> </a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="sqlite" width="50" height="50"/> </a>
+
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/Hg4jUD7qrYMAAAAC/hack-the-planet-hacker-cat.gif">
 
 ## Tech Stack
 
