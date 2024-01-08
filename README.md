@@ -70,6 +70,6 @@
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/> </a>
 <a href="https://tauri.app/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tauri-logo-39352BD5A1-seeklogo.com.png" alt="Tauri" width="40" height="40"/> </a>
 <a href="https://rocket.rs/" target="_blank" rel="noreferrer"> <img src="https://rocket.rs/images/logo-boxed.png" alt="Rocket" width="40" height="40"/> </a>
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://tse2.mm.bing.net/th/id/OIP.KhEi6z8wYQZVa0IFYmaUXAHaHa?rs=1&pid=ImgDetMain" alt="Next" width="40" height="40"/> </a>
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="Next" width="40" height="40"/> </a>
 <a href="https://tauri.app/" target="_blank" rel="noreferrer"> <img src="https://doc.rust-lang.org/cargo/images/Cargo-Logo-Small.png" alt="Cargo" width="40" height="40"/> </a>
  </p>
