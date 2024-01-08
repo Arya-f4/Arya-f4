@@ -53,6 +53,8 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://tailwindui.com/" target="_blank" rel="noreferrer"> <img src="https://www.scottbrady91.com/img/logos/tailwind.png" alt="tailwind" width="40" height="40"/> </a>
+ <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/project-images/bootstrap-stack.png" alt="Bootstrap" width="40" height="40"/> </a>
 <a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="sqlite" width="40" height="40"/> </a>
