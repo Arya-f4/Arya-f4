@@ -75,4 +75,5 @@
 <a href="https://rocket.rs/" target="_blank" rel="noreferrer"> <img src="https://rocket.rs/images/logo-boxed.png" alt="Rocket" width="40" height="40"/> </a>
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="Next" width="40" height="40"/> </a>
 <a href="https://tauri.app/" target="_blank" rel="noreferrer"> <img src="https://doc.rust-lang.org/cargo/images/Cargo-Logo-Small.png" alt="Cargo" width="40" height="40"/> </a>
+ <a href="vuejs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"/></a>
  </p>
