@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 - 🔭 I’m currently working on some project
 - 🛡 I'm currently working on cyber security of Airlangga University
-- 🌱 I’m currently learning with malware development
+- 🌱 I’m currently Starting startup named evop.tech
 - 💻Hacking and Development enthusiasts
 - 📫 How to reach me: just mail this "edensleuth@gmail.com" Or This ||"kajuki27@gmail.com" || "worldsavior@worldsavior.icu" ||
 - 😄 Pronouns: The self | Arya | Him
