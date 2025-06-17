@@ -1,6 +1,10 @@
 
 <marquee><h1> I'm Worldsavior | Arya </h1></marquee>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+
+Hello 👋 my name is Arya Maulana or you can call me "worldsavior" and I'm from Airlangga University Surabaya, Indonesia, Taking Informatics Technology as my Major
+I have a huge interest with Software Engineering, whether in Website, WebApps, Mobile, Desktop Apps, Or Even Server . I also have an interest on anything related to Open Source Software such as Linux and stuff. Also I'm working as a founder at [Easy Virtualization Of Products Technology](https://evop.tech). <br/>
+Nice to meet you!
 - 🔭 I’m currently working on some project
 - 🌱 I’m currently Starting startup named evop.tech
 - 💻Hacking and Development enthusiasts
@@ -64,6 +68,3 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arya-f4&no-frame=true)
 
 ---
----
-
-[![](https://visitcount.itsvg.in/api?id=Arya-f4&icon=0&color=1)](https://visitcount.itsvg.in)
