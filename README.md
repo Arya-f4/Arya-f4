@@ -1,11 +1,12 @@
-### Hi there 👋
 
 <marquee><h1> I'm Worldsavior | Arya </h1></marquee>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 - 🔭 I’m currently working on some project
 - 🌱 I’m currently Starting startup named evop.tech
 - 💻Hacking and Development enthusiasts
-- 📫 How to reach me: just mail this "edensleuth@gmail.com" Or This ||"kajuki27@gmail.com" || "contact@evop.tech" ||
+- 📫 How to reach me: just mail this :
+
+   "edensleuth@gmail.com" | "kajuki27@gmail.com" | "contact@evop.tech"
 - 😄 Pronouns: The self | Arya | Him
 - ⚡ Fun fact: I love philosophy and code
 
@@ -51,8 +52,18 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arya-f4&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-f4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arya-f4)](https://git.io/streak-stats)<br/>
 
 ---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-f4&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+![Arya-f4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arya-f4&show_icons=true)
+
+---
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arya-f4&no-frame=true)
+
+---
+---
+
 [![](https://visitcount.itsvg.in/api?id=Arya-f4&icon=0&color=1)](https://visitcount.itsvg.in)
