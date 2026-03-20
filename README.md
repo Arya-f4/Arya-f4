@@ -55,7 +55,7 @@ Nice to meet you!
 
 
 # CVE Discovered : 
-Total : 4
+Total : 5
 
 - GHSA : https://github.com/ellite/Wallos/security/advisories/GHSA-mr2c-prqv-hqm8
   
@@ -69,6 +69,9 @@ Total : 4
 - GHSA : https://github.com/OneUptime/oneuptime/security/advisories/GHSA-cw6x-mw64-q6pv
 
    CVE : [CVE-2026-30959](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-30959)
+- GHSA : https://github.com/go-vikunja/vikunja/security/advisories/GHSA-wc83-79hj-hpmq
+
+   CVE : [CVE-2026-33474](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-33474)
 
 # 📊 GitHub Stats:
 
