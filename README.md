@@ -1,85 +1,170 @@
+<!-- Header -->
+<div align="center">
 
-<marquee><h1> I'm Worldsavior | Aryma </h1></marquee>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+```
+██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ ███████╗ █████╗ ██╗   ██╗██╗ ██████╗ ██████╗
+██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗██╔════╝██╔══██╗██║   ██║██║██╔═══██╗██╔══██╗
+██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║███████╗███████║██║   ██║██║██║   ██║██████╔╝
+██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║╚════██║██╔══██║╚██╗ ██╔╝██║██║   ██║██╔══██╗
+╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝███████║██║  ██║ ╚████╔╝ ██║╚██████╔╝██║  ██║
+ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
-Hello 👋 I'm Aryma or you can call me "worldsavior" and I'm from Somewhere in this world, Taking Informatics Technology as my Major
-I have a huge interest with Software Engineering, whether in Website, WebApps, Mobile, Desktop Apps, Or Even Server . I also have an interest on anything related to Open Source Software such as Linux and stuff. <br/>
-Nice to meet you!
-- 🔭 I’m currently working on some project
-- 💻Hacking and Development enthusiasts
-- 📫 How to reach me: just mail this :
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Aryma+%2F+Worldsavior+%F0%9F%91%BE;Software+Engineer+%7C+Open+Source+Enthusiast;Hacking+%26+Development+Addict+%F0%9F%92%BB;Love+Philosophy+%26+Code+%E2%9C%A8" alt="Typing SVG" />
 
-   "edensleuth@gmail.com" | "kajuki27@gmail.com" | "arya@evop.tech"
-- 😄 Pronouns: The self | Aryma | Him
-- ⚡ Fun fact: I love philosophy and code
+<img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="250" />
 
-## 🛠 My main language
+[![Email](https://img.shields.io/badge/arya@evop.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arya@evop.tech)
+[![Email](https://img.shields.io/badge/edensleuth@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:edensleuth@gmail.com)
 
-**Main language:** 
+</div>
+
+---
+
+## 🧬 About Me
+
+```typescript
+const aryma = {
+  alias       : "Worldsavior",
+  location    : "Somewhere in this world 🌍",
+  major       : "Informatics Technology",
+  pronouns    : ["The self", "Aryma", "Him"],
+  passion     : ["Software Engineering", "Open Source", "Philosophy", "Hacking"],
+  platforms   : ["Web", "WebApps", "Mobile", "Desktop", "Server"],
+  philosophy  : "I love philosophy and code ⚡",
+  currentFocus: "Building things that matter 🔭",
+};
+```
+
+---
+
+## 🛠️ Core Languages
+
+<div align="center">
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/Hg4jUD7qrYMAAAAC/hack-the-planet-hacker-cat.gif">
+</div>
 
-## Tech Stack
+---
 
-**Client:**
+## 🚀 Tech Stack
+
+<details>
+<summary><b>🖥️ Frontend & Mobile</b></summary>
+<br>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-**Server:** 
+</details>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
- ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
- 
-**Databases:**
+<details>
+<summary><b>⚙️ Backend & Runtime</b></summary>
+<br>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+</details>
 
-## All Technology that I already know the fundamentals Of
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)
 
-# CVE Discovered : 
-Total : 5
-
-- GHSA : https://github.com/ellite/Wallos/security/advisories/GHSA-mr2c-prqv-hqm8
-  
-   CVE : [CVE-2026-30840](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-30840)
-- GHSA : https://github.com/FlintSH/Flare/security/advisories/GHSA-gwqr-xf5c-5569
-
-   CVE : [CVE-2026-30231](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-30231)
-- GHSA : https://github.com/FlintSH/Flare/security/advisories/GHSA-3x7v-x3r6-mjh7
-
-   CVE : [CVE-2026-30230](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-30230)
-- GHSA : https://github.com/OneUptime/oneuptime/security/advisories/GHSA-cw6x-mw64-q6pv
-
-   CVE : [CVE-2026-30959](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-30959)
-- GHSA : https://github.com/go-vikunja/vikunja/security/advisories/GHSA-wc83-79hj-hpmq
-
-   CVE : [CVE-2026-33474](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-33474)
-
-# 📊 GitHub Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aryma-f4)](https://git.io/streak-stats)<br/>
+</details>
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryma-f4&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🔐 CVE Discoveries
+
+> **Total CVEs Discovered: 5** — Security research & responsible disclosure
+
+| CVE ID | Project | Advisory |
+|--------|---------|----------|
+| [CVE-2026-30840](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-30840) | **Wallos** | [GHSA-mr2c-prqv-hqm8](https://github.com/ellite/Wallos/security/advisories/GHSA-mr2c-prqv-hqm8) |
+| [CVE-2026-30231](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-30231) | **Flare** | [GHSA-gwqr-xf5c-5569](https://github.com/FlintSH/Flare/security/advisories/GHSA-gwqr-xf5c-5569) |
+| [CVE-2026-30230](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-30230) | **Flare** | [GHSA-3x7v-x3r6-mjh7](https://github.com/FlintSH/Flare/security/advisories/GHSA-3x7v-x3r6-mjh7) |
+| [CVE-2026-30959](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-30959) | **OneUptime** | [GHSA-cw6x-mw64-q6pv](https://github.com/OneUptime/oneuptime/security/advisories/GHSA-cw6x-mw64-q6pv) |
+| [CVE-2026-33474](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-33474) | **Vikunja** | [GHSA-wc83-79hj-hpmq](https://github.com/go-vikunja/vikunja/security/advisories/GHSA-wc83-79hj-hpmq) |
 
 ---
-# Viewer : 
-![Github Viewer](https://count.getloli.com/@:Aryma-f4?theme=nixietube-1)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Aryma-f4&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryma-f4&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&layout=compact" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aryma-f4&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" alt="GitHub Stats" />
+
+</div>
+
+---
+
+## 🐱 Hacker Cat Approved
+
+<div align="center">
+  <img src="https://media.tenor.com/Hg4jUD7qrYMAAAAC/hack-the-planet-hacker-cat.gif" width="200"/>
+  <br/>
+  <i>"Hack the planet 🌍"</i>
+</div>
+
+---
+
+<div align="center">
+
+### 👁️ Profile Views
+
+![Viewer Count](https://count.getloli.com/@:Aryma-f4?theme=nixietube-1)
+
+<br/>
+
+*"I love philosophy and code"* — **Aryma / Worldsavior**
+
+</div>
